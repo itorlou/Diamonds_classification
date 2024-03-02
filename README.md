@@ -1,4 +1,4 @@
-# Diamonds Classifcation
+# Diamonds Classification
 
 ## [ESP] 🇪🇸
 Comparativa de modelo predictivos de clasificación con Python & Scikit-learn
